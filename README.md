@@ -1,4 +1,5 @@
 ## Olá, Eu sou o [Washington Sampaio](https://www.linkedin.com/in/washington-sampaio/) 👋
+![](https://komarev.com/ghpvc/?username=washingtonsampaiovieira&color=006bed)
 
 ### 💻 &nbsp;Um pouco sobre mim:
 
