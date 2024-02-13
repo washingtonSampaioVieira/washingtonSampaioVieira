@@ -48,7 +48,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### Projetos referência:
-- [Serviços em Cluster com Java](https://github.com/washingtonSampaioVieira/clustered_microservices_aws_java)
+- [Spring Batch App]([https://github.com/washingtonSampaioVieira/clustered_microservices_aws_java](https://github.com/washingtonSampaioVieira/spring_batch))
+- [Vendedores - Spring Boot App](https://github.com/washingtonSampaioVieira/vendedores)
 - [Goodinner](https://github.com/washingtonSampaioVieira/godinner)
 
 <br />
